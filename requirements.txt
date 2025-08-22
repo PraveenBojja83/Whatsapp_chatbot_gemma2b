@@ -1,0 +1,6 @@
+Flask==2.3.2
+llama-index-core==0.12.42
+llama-index-llms-ollama==0.6.2
+llama-index-embeddings-huggingface==0.5.4
+rapidfuzz==2.15.1
+textblob==0.17.1
